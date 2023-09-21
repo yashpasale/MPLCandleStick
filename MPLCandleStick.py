@@ -3,7 +3,7 @@ import pandas as pd
 import mplfinance as mpf
 #%%
 df = 'NVDA.csv'
-data = pd.read_csv(r"/Users/yashpasale/Downloads/NVDA.csv")
+data = pd.read_csv(r"{area path for csv file}")
 print(df)
 # %%
 data.Date = pd.to_datetime(data.Date)
