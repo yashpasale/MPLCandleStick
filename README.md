@@ -1,5 +1,4 @@
 # MPLCandleStick
-Using the MPL module to Visualize CandleStick Charts
+Used the MPL module to Visualize NVDA Candle Stick Chart. Data sourced from Yahoo Finance 
 
-Why I prefer Mathplotlib?
-It allows for customizable stock charts
+Basic program allowing for customizable stock charts
